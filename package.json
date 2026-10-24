@@ -1,6 +1,6 @@
 {
   "name": "bmap-types",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "TypeScript declarations for the Baidu Map JavaScript API v3.0",
   "keywords": [
     "baidu",
